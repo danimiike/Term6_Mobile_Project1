@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Happiness Level Survey</string>
+    <string name="tvStdName">Danielle Menezes de Mello Miike - 0910303</string>
+    <string name="btnTakeSurvey">Take Survey</string>
+    <string name="btnInstructions">Instructions</string>
+    <string name="show">Please make a choice</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_hide">Hide</string>
+    <string name="alert_dialog_something">Something</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_progress_text2">145/305 KB</string>
+    <string name="select_dialog">Header title</string>
+    <string name="select_dialog_show">List dialog</string>
+    <string name="choiceMessage">The choice I will take</string>
+    <string name="btnDescription">Finish this activity.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
